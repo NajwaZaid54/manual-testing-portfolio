@@ -8,23 +8,6 @@ The project was created as part of a software testing learning portfolio to stre
 
 ---
 
-## 🎯 Testing Scope
-
-The following scenarios were tested:
-
-* Valid login
-* Invalid password
-* Invalid username
-* Empty username field
-* Empty password field
-* Both fields empty
-* Password field masking
-* Login button functionality
-* Successful page redirection
-* Error message validation
-
----
-
 ## 🛠️ Tools Used
 
 * Manual Testing
